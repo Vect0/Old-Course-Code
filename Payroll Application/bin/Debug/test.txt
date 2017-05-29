@@ -1,0 +1,266 @@
+======================
+Salary Employee
+======================
+Gross: $0
+Net: $0
+Net Percent: 0%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $0
+Net Percent: 0%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $0
+Net: $0
+Net Percent: 0%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $0
+Net Percent: 0%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $29.12
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $29.12
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $29.12
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $0
+Net: $0
+Net Percent: 0%
+
+======================
+Commission Employee
+======================
+Gross: $25.47
+Net: $0
+Net Percent: 0%
+
+======================
+Commission Employee
+======================
+Gross: $25.47
+Net: $20.376
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $25.47
+Net: $20.376
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $29.12
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $36.4
+Net: $29.12
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $25.47
+Net: $20.376
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $0
+Net: $0
+Net Percent: 0%
+
+======================
+Commission Employee
+======================
+Gross: $0
+Net: $0
+Net Percent: 0%
+
+======================
+Hourly Employee
+======================
+Gross: $27.75
+Net: $22.2
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $500000
+Net: $400000
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $27.75
+Net: $22.2
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $61.05
+Net: $48.84
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $27.75
+Net: $22.2
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $61.05
+Net: $48.84
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $27.75
+Net: $22.2
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $500000
+Net: $400000
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $61.05
+Net: $48.84
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $525
+Net: $420
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $525
+Net: $420
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+
+======================
+Commission Employee
+======================
+Gross: $5000
+Net: $4000
+Net Percent: 80%
+
+======================
+Hourly Employee
+======================
+Gross: $525
+Net: $420
+Net Percent: 80%
+
+======================
+Salary Employee
+======================
+Gross: $1000000
+Net: $800000
+Net Percent: 80%
+

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee xsi:type="HourlyEmployee">
+    <taxrate>0.2</taxrate>
+    <gross>12.92</gross>
+    <tax>2.584</tax>
+    <net>10.336</net>
+    <net_percent>80</net_percent>
+    <overtime>0</overtime>
+    <overtimeHours>0</overtimeHours>
+    <overtimeRate>0</overtimeRate>
+  </Employee>
+  <Employee xsi:type="SalaryEmployee">
+    <taxrate>0.2</taxrate>
+    <gross>1000000</gross>
+    <tax>200000</tax>
+    <net>800000</net>
+    <net_percent>80</net_percent>
+    <weeklySalary>1000000</weeklySalary>
+  </Employee>
+  <Employee xsi:type="CommissionEmployee">
+    <taxrate>0.2</taxrate>
+    <gross>43.4499969</gross>
+    <tax>8.69</tax>
+    <net>34.76</net>
+    <net_percent>80</net_percent>
+    <unitSold>10</unitSold>
+    <unitPrice>8.69</unitPrice>
+  </Employee>
+</ArrayOfEmployee>
